@@ -1,7 +1,5 @@
 # isps-hate-rural-people
-A script to automatically plus one my TTL so that my ISP doesn't throttle me for using a mofi router.
-
-This one is specific for apple users but i also have a linux and windows machine ill be doing this for soon too.
+A script to automatically plus one my TTL so that my ISP doesn't throttle me for using a mofi router. This one is specific for apple users but i also have a linux and windows machine ill be doing this for soon too.
 
 Step Zero: Replace USERNAME and PASSWORD in the aboves files with your own.
 
