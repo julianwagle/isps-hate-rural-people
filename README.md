@@ -11,3 +11,4 @@ Step Two: place tll.scpt in ${Username}/Library/Scripts/
 
 Step Three: cd to ${Volume}/Library/LaunchDaemons/ and place com.username.tll.plist
 
+Step Four: run ping localhost to verify it all worked. If it didnt, restart your computer and then test again.
