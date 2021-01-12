@@ -3,9 +3,11 @@ A script to automatically plus one my TLL so that my ISP doesn't throttle me for
 
 This one is specific for apple users but i also have a linux and windows machine ill be doing this for soon too.
 
-Step Zero: cd to ${Username}/Library/ and run 'mkdir Scripts'
+Step Zero: Replace USERNAME and PASSWORD in the aboves files with your own.
 
-Step One: place tll.scpt in ${Username}/Library/Scripts/
+Step One: cd to ${Username}/Library/ and run 'mkdir Scripts'
 
-Step Two: cd to ${Volume}/Library/LaunchDaemons/ and place com.username.tll.plist
+Step Two: place tll.scpt in ${Username}/Library/Scripts/
+
+Step Three: cd to ${Volume}/Library/LaunchDaemons/ and place com.username.tll.plist
 
